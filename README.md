@@ -48,3 +48,7 @@ It then prints out all subjects with their grades, followed by the average grade
 ##if name == “main”:
 This line checks if this script is being run directly (not imported as a module).
 If it is run directly, it will call the main function to start the program.
+
+![Screenshot 2024-07-14 133531](https://github.com/user-attachments/assets/af7bc5d1-d689-459e-afd2-2c75014bce9c)
+![Screenshot 2024-07-14 133415](https://github.com/user-attachments/assets/a7c00202-af8b-4d03-864b-02abbfb557d6)
+
